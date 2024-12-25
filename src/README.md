@@ -7,7 +7,7 @@ footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePr
 
 actions:
   - text: Contact
-    icon: lightbulb
+    icon: envelope
     link: mailto:admin@progynova.cn
     type: primary
 ---
